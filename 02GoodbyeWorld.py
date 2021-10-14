@@ -1,6 +1,6 @@
 print(" ------------------------------------------------") 
 print("|                                                |")
-print("|    O2GoodbyeWorld                               |")
+print("|    O2GoodbyeWorld                              |")
 print("|    Name : Nikhita Arora                        |")
 print("|    Version : 01                                |")
 print("|                                                |")
