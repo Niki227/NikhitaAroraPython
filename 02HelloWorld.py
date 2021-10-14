@@ -1,0 +1,7 @@
+print(" ------------------------------------------------") 
+print("|                                                |")
+print("|    O2GoodbyWorld                               |")
+print("|    Name : Nikhita Arora                        |")
+print("|    Version : 01                                |")
+print("|                                                |")
+print(" ------------------------------------------------")
