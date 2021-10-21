@@ -1,6 +1,6 @@
 print(" ------------------------------------------------") 
 print("|                                                |")
-print("|    O5HelloWorld                                |")
+print("|    O5ForLoop                                   |")
 print("|    Name : Nikhita Arora                        |")
 print("|    Version : 01                                |")
 print("|                                                |")
