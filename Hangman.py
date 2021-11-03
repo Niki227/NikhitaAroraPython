@@ -23,7 +23,7 @@ print(word)
 start = input("Type 'yes' to continue the game or type 'no' to re-enter the word: ")
 
 if start == "yes":
-    print("ok")
+    print("we get it")
 elif start == "no":
     word = input("Please type your chosen word: ")
     print(word)
