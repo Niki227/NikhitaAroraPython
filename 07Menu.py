@@ -87,8 +87,10 @@ def my_menu():
     def clear():
         from os import system, name
         if name == 'nt':
+            _ = system('cls')
             return my_menu() #makes it recurring
         else:
+            _ = system('cls', my_menu())
             return my_menu() #makes it recurring
 
     # if...else statements for the output of each function (e.g. hello world- option 1, goodbye world- option2, etc.)
