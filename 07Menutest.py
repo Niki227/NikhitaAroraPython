@@ -1,4 +1,3 @@
-# this one is just for a trial
 print(" ------------------------------------------------") 
 print("|                                                |")
 print("|    O7Menu                                      |")
