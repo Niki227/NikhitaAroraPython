@@ -1,11 +1,11 @@
 # Assigns a function to the whole menu
 def my_menu():
-    import os
+    import os # clear statement
     os.system('cls')
 
     print(" ------------------------------------------------") 
     print("|                                                |")
-    print("|    O7Menu                                      |")
+    print("|    99FinalTest                                 |")
     print("|    Name : Nikhita Arora                        |")
     print("|    Version : 01                                |")
     print("|                                                |")
@@ -213,7 +213,7 @@ def my_functionRestart():
     print("")
     print("")
     input("Press Enter to continue")
-    return my_menu() 
+    return my_menu() # loop
 
 my_menu() 
 
